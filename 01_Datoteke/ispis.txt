@@ -1,6 +1,4 @@
-Ovo je prva linija.
-Ovo je druga linija.
-Ovo je treca linija.
-Ovo je treca linija.
-55
+Ovo je prva linija
+Ovo je druga linija
 5
+10
