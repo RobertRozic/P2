@@ -2,6 +2,8 @@
 # Zanemari prvu liniju u kojoj se nalazi zaglavlje
 # Od podataka napravi listu uređenih parova ime,prezime
 
+dat = open("studenti.txt", "r", encoding="utf-8")
+
 # 2. Iteriranjem kroz listu uređenih parova n-torki koristeći svojstvo raspakiravanja,
 # kreiraj listu rječnika sa ključevima ime i prezime.
 
