@@ -1,5 +1,0 @@
-Ivan,Ivic,1991
-Iva,Peric,1992
-Ana,Anic,1993
-Ante,Antic,1994
-Pero,Maric,1995
