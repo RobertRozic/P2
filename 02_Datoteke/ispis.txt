@@ -1,0 +1,25 @@
+Ovo je prva linija
+Ovo je druga linija
+Ovo je treca linija
+Ovo je prva linija
+Ovo je druga linija
+Ovo je treca linija
+Ovo je prva linija
+Ovo je druga linija
+Ovo je treca linija
+Ovo je prva linija
+Ovo je druga linija
+Ovo je treca linija
+5Ovo je prva linija
+Ovo je druga linija
+Ovo je treca linija
+5
+6
+7
+Ovo je prva linija
+Ovo je druga linija
+Ovo je treca linija
+5
+6
+7
+Rezultat zbrajanja je: 4
