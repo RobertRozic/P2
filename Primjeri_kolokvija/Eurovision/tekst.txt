@@ -1,0 +1,8 @@
+Na Githubu se nalazi arhiva P2_kol1.zip
+
+U arhivi se nalaze dvije datoteke:
+countries.py
+kol1_ime_prezime.py
+Potrebno je preuzeti datoteke na računalo i preimenovati u vaše ime i prezime.
+
+Kolokvij radite unutar datoteke kol1_ime_prezime.py gdje vam je dostupna lista tuples - varijabla - "countries"
