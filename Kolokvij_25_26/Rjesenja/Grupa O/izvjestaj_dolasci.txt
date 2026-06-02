@@ -1,0 +1,4 @@
+Svi zapisi: 8
+Ispravni zapisi: 7
+Prisutni studenti: 4
+odsutni studenti: 3
